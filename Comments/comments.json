@@ -1,0 +1,49 @@
+{
+    "AverageCharAccuracy": 100,
+    "AverageCharErrors": 0,
+    "AverageWordAccuracy": 100,
+    "AverageWordErrors": 0,
+    "Rating-V1": 4,
+    "pages": {
+        "page-001": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-001",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "page-002": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-002",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "page-003": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-003",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "page-007": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-007",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "page-010": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-010",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        }
+    }
+}

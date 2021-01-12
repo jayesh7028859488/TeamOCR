@@ -1,0 +1,50 @@
+{
+    "Corrector:page-001.html:V-1": {
+        "directory": "Corrector:page-001.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:page-001.txt:V-1": {
+        "directory": "Corrector:page-001.txt:V-1",
+        "seconds": 0
+    },
+    "Corrector:page-003.html:V-1": {
+        "directory": "Corrector:page-003.html:V-1",
+        "seconds": 0
+    },
+    "Verifier::V-0": {
+        "directory": "Verifier::V-0",
+        "seconds": 0
+    },
+    "Verifier:page-001.html:V-0": {
+        "directory": "Verifier:page-001.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-001.txt:V-0": {
+        "directory": "Verifier:page-001.txt:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-002.html:V-0": {
+        "directory": "Verifier:page-002.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-002.txt:V-0": {
+        "directory": "Verifier:page-002.txt:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-003.html:V-0": {
+        "directory": "Verifier:page-003.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-007.html:V-0": {
+        "directory": "Verifier:page-007.html:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-007.txt:V-0": {
+        "directory": "Verifier:page-007.txt:V-0",
+        "seconds": 0
+    },
+    "Verifier:page-010.txt:V-0": {
+        "directory": "Verifier:page-010.txt:V-0",
+        "seconds": 0
+    }
+}

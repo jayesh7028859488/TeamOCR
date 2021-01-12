@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Project name="Book1">
+	<ItemGroup>
+		<Filter Include="Image">
+			<Extensions>jpeg;jpg;png;</Extensions>
+		</Filter>
+		<Filter Include="Document">
+			<Extensions>docx;txt;html</Extensions>
+		</Filter>
+	</ItemGroup>
+	<ItemGroup />
+	<Metadata>
+		<Version>1</Version>
+		<Stage>Corrector</Stage>
+		<Corrector>None</Corrector>
+		<SanityChecker>None</SanityChecker>
+		<Verifier>None</Verifier>
+	</Metadata>
+</Project>
