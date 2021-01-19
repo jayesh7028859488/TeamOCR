@@ -11,7 +11,7 @@
 	<ItemGroup />
 	<Metadata>
 		<Version>1</Version>
-		<Stage>Corrector</Stage>
+		<Stage>Verifier</Stage>
 		<Corrector>None</Corrector>
 		<SanityChecker>None</SanityChecker>
 		<Verifier>None</Verifier>
