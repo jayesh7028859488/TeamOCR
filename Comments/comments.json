@@ -1,10 +1,28 @@
 {
-    "AverageCharAccuracy": 100,
+    "AverageCharAccuracy": 99.49400329589844,
     "AverageCharErrors": 0,
-    "AverageWordAccuracy": 100,
+    "AverageWordAccuracy": 99.23100280761719,
     "AverageWordErrors": 0,
+    "Formatting": true,
+    "Rating-V0": 5,
     "Rating-V1": 4,
     "pages": {
+        "Untitled": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Untitled",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "as": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "as",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
         "page-001": {
             "characcuracy": 100,
             "charerrors": 0,
@@ -22,10 +40,26 @@
             "worderrors": 0
         },
         "page-003": {
+            "characcuracy": 94.94000244140625,
+            "charerrors": 4,
+            "comments": "",
+            "pagename": "page-003",
+            "wordaccuracy": 92.30999755859375,
+            "worderrors": 1
+        },
+        "page-004": {
             "characcuracy": 100,
             "charerrors": 0,
             "comments": "",
-            "pagename": "page-003",
+            "pagename": "page-004",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "page-005": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-005",
             "wordaccuracy": 100,
             "worderrors": 0
         },
@@ -34,6 +68,14 @@
             "charerrors": 0,
             "comments": "",
             "pagename": "page-007",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "page-008": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-008",
             "wordaccuracy": 100,
             "worderrors": 0
         },

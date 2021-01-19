@@ -1,0 +1,5 @@
+Page Name,Errors (Word level),Errors (Character-Level),Accuracy of Corrector (Word level),Accuracy of Corrector (Character-Level),Changes made by Corrector(%),OCR Accuracy(w.rt. Verified Text)
+page-003.html,22,83,100,28.45,15,35.34
+page-003.json,0,0,0,100,64.66,35.34
+page-004.html,23,177,104.55,-52.59,360.42,90.57
+page-004.json,17,155,77.27,-33.62,360.42,49.41
